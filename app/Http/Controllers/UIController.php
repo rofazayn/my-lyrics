@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Category;
 use App\Artiste;
-use App\song;
+use App\Song;
 
 class UIController extends Controller
 {
